@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Kode Pos Kelurahan Margasari adalah " + KodePos.GetKodePos(KodePos.Kelurahan.Margasari));
         }
     }
 }

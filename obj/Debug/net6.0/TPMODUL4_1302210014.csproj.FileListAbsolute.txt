@@ -1,0 +1,15 @@
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\bin\Debug\net6.0\TPMODUL4_1302210014.exe
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\bin\Debug\net6.0\TPMODUL4_1302210014.deps.json
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\bin\Debug\net6.0\TPMODUL4_1302210014.runtimeconfig.json
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\bin\Debug\net6.0\TPMODUL4_1302210014.dll
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\bin\Debug\net6.0\TPMODUL4_1302210014.pdb
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\obj\Debug\net6.0\TPMODUL4_1302210014.csproj.AssemblyReference.cache
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\obj\Debug\net6.0\TPMODUL4_1302210014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\obj\Debug\net6.0\TPMODUL4_1302210014.AssemblyInfoInputs.cache
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\obj\Debug\net6.0\TPMODUL4_1302210014.AssemblyInfo.cs
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\obj\Debug\net6.0\TPMODUL4_1302210014.csproj.CoreCompileInputs.cache
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\obj\Debug\net6.0\TPMODUL4_1302210014.dll
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\obj\Debug\net6.0\refint\TPMODUL4_1302210014.dll
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\obj\Debug\net6.0\TPMODUL4_1302210014.pdb
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\obj\Debug\net6.0\TPMODUL4_1302210014.genruntimeconfig.cache
+C:\Users\Isabu\source\repos\TPMODUL4_1302210014\obj\Debug\net6.0\ref\TPMODUL4_1302210014.dll
